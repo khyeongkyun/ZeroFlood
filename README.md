@@ -3,10 +3,10 @@
 🚧 Work in process 🚧
 
 ## Dataset
-https://huggingface.co/hk-kaden-kim/ZeroFlood
+[https://huggingface.co/hk-kaden-kim/ZeroFlood](https://huggingface.co/datasets/khyeongkyun/ZeroFlood)
 
 ## Models
-https://huggingface.co/hk-kaden-kim/ZeroFlood-model
+[https://huggingface.co/hk-kaden-kim/ZeroFlood-model](https://huggingface.co/khyeongkyun/ZeroFlood-model)
 
 ## Contacts
 Hyeongkyun Kim, hyeongkyun.kim@dlr.de
