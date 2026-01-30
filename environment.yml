@@ -1,0 +1,22 @@
+name: zeroflood
+
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.12.0
+  - pip
+  - pip:
+      - torch
+      - torchvision
+      - numpy
+      - matplotlib
+      - huggingface_hub
+      - webdataset
+      - albumentations
+      - fsspec
+      - braceexpand
+      - zarr==2.18.0
+      - numcodecs==0.15.1

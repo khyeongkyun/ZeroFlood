@@ -3,8 +3,8 @@ _*
 *.sh
 predictions
 .ipynb_checkpoints
-archive
-dataset
+# archive
+# dataset
 sen1floods11
 *.err
 *.out
