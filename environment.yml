@@ -14,6 +14,9 @@ dependencies:
       - numpy
       - matplotlib
       - huggingface_hub
+      - rasterio
+      - xarray
+      - geopandas
       - webdataset
       - albumentations
       - fsspec

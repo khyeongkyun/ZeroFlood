@@ -191,7 +191,7 @@ def zarr_metadata_decoding(sample):
             
             # NOTE: Add more metadata to get a grid information
             sample['x'], sample['y'] = data['x'][...], data['y'][...]
-        
+            sample['crs'] = data['crs'][...]
         elif isinstance(value, str):
             # Skip str data
             pass
